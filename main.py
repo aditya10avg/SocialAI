@@ -47,3 +47,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#The next step is to integrate it to ui and add some functionalities like updating the current write up into linkedin one or tweet or medium blog. 
